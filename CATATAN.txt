@@ -1,0 +1,15 @@
+- Cara menggunakan permision handler di flutter :
+android :
+https://developer.android.com/reference/android/Manifest.permission
+
+- ios:
+https://developer.apple.com/documentation/uikit/protecting_the_user_s_privacy/requesting_access_to_protected_resources
+
+- package yang digunakan :
+permision_handler: 9.2.0
+
+- tambahkan di app/src/main/AndroidManifest.xml
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+<uses-permission android:name="android.permission.CAMERA" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
