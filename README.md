@@ -1,6 +1,6 @@
 # app_handler
 
-A new Flutter project.
+For Training Flutter Kemenkeu Permission Handler
 
 ## Getting Started
 
